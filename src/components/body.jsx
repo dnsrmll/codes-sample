@@ -27,7 +27,7 @@ class Body extends Component {
   <input type="submit" onClick={showFunction}/>
 </div>
 
-<div class='divform2'>
+<div class='divform1'>
   <label>Your input: </label>
   <p><span id='display'></span></p>
   <p><span id='display1'></span></p>
